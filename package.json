@@ -1,0 +1,46 @@
+{
+  "name": "iotcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iotacss-settings-core": "^1.0.1",
+    "iotacss-tools-core": "^1.0.8"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "iotacss-base-initialize": "^1.0.0",
+    "iotacss-components-button": "^1.0.2",
+    "iotacss-components-modal": "^1.0.2",
+    "iotacss-objs-container": "^1.0.0",
+    "iotacss-objs-grid": "^1.0.3",
+    "iotacss-objs-list": "^1.0.3",
+    "iotacss-objs-media": "^1.0.4",
+    "iotacss-objs-type": "^1.0.5",
+    "iotacss-tools-breakpoint": "^1.0.0",
+    "iotacss-tools-ms": "^1.1.0",
+    "iotacss-tools-type": "^1.0.1",
+    "iotacss-utils-align": "^1.0.0",
+    "iotacss-utils-bgcolor": "^1.0.0",
+    "iotacss-utils-clearfix": "^1.0.0",
+    "iotacss-utils-color": "^1.0.0",
+    "iotacss-utils-display": "^1.0.1",
+    "iotacss-utils-float": "^1.0.1",
+    "iotacss-utils-margin": "^1.0.2",
+    "iotacss-utils-opacity": "^1.0.0",
+    "iotacss-utils-padding": "^1.0.2",
+    "iotacss-utils-position": "^1.0.0",
+    "iotacss-utils-pull": "^1.0.2",
+    "iotacss-utils-push": "^1.0.2",
+    "iotacss-utils-size": "^1.0.0",
+    "iotacss-utils-text": "^1.0.1",
+    "iotacss-utils-transform": "^1.0.1",
+    "iotacss-utils-weight": "^1.0.1"
+  }
+}
